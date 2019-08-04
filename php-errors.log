@@ -1,0 +1,997 @@
+[07-May-2017 01:37:19 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[07-May-2017 01:37:20 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/proj2/proj2_server/rest/day/localhost/cs637/adalave1/Proj2/localhost:1234/cs637/eoneil/proj2/proj2_server/rest/day/
+[07-May-2017 01:37:22 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/proj2/proj2_server/rest/day/localhost/cs637/adalave1/Proj2/localhost:1234/cs637/eoneil/proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\T in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[07-May-2017 02:05:37 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[07-May-2017 02:05:37 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/proj2/proj2_server/rest/day/localhost/cs637/adalave1/Proj2/localhost:1234/cs637/eoneil/proj2/proj2_server/rest/day/
+[07-May-2017 02:05:37 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/proj2/proj2_server/rest/day/localhost/cs637/adalave1/Proj2/localhost:1234/cs637/eoneil/proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\T in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[07-May-2017 02:11:02 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[07-May-2017 02:11:02 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/proj2/proj2_server/rest/day/localhost/cs637/adalave1/Proj2/localhost:1234/cs637/eoneil/proj2/proj2_server/rest/day/
+[07-May-2017 02:11:02 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/proj2/proj2_server/rest/day/localhost/cs637/adalave1/Proj2/localhost:1234/cs637/eoneil/proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\T in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[07-May-2017 02:16:45 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[07-May-2017 02:16:45 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[07-May-2017 02:16:45 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[07-May-2017 02:16:55 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[07-May-2017 02:16:55 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[07-May-2017 02:16:55 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[07-May-2017 02:16:57 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[07-May-2017 02:16:57 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[07-May-2017 02:16:57 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[07-May-2017 03:52:28 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[07-May-2017 03:52:29 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[07-May-2017 03:52:31 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[07-May-2017 03:53:12 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[07-May-2017 03:53:12 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[07-May-2017 03:53:12 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[07-May-2017 04:40:55 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[07-May-2017 04:40:55 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[07-May-2017 04:40:55 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[07-May-2017 18:51:50 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[07-May-2017 18:51:50 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[07-May-2017 18:51:52 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[07-May-2017 18:52:09 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[07-May-2017 18:52:09 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[07-May-2017 18:52:09 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 00:58:03 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 00:58:04 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 00:58:05 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 01:07:58 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/index.php
+[08-May-2017 01:08:02 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/
+[08-May-2017 01:08:03 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/topping/
+[08-May-2017 01:08:05 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 01:08:06 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/
+[08-May-2017 01:08:11 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 01:08:12 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/
+[08-May-2017 01:08:15 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 01:08:15 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 01:08:15 Europe/Berlin] $_GET:room: 1
+[08-May-2017 01:08:17 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 01:08:18 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 01:08:20 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 01:08:20 Europe/Berlin] PHP Notice:  Undefined variable: undelivered_orders in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 61
+[08-May-2017 01:09:01 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/index.php
+[08-May-2017 01:15:22 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 01:15:22 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 01:15:22 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 01:15:50 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 01:15:50 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 01:15:50 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 01:16:51 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 01:16:51 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 01:16:51 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 01:17:58 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/index.php
+[08-May-2017 01:18:05 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 01:18:05 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 01:18:05 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 01:18:07 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 01:18:07 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 01:18:07 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 01:18:18 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 01:18:18 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 01:18:18 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 01:18:41 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 01:18:41 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 01:18:41 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 01:18:45 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 01:18:46 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 01:18:46 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 01:18:51 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 01:18:51 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 01:18:51 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 01:24:24 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 01:24:24 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 01:24:24 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 01:25:11 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 01:25:11 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 01:25:11 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 02:13:04 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/index.php
+[08-May-2017 02:13:07 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/
+[08-May-2017 02:13:11 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/topping/
+[08-May-2017 02:13:13 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/
+[08-May-2017 02:13:14 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/size/
+[08-May-2017 02:13:19 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 02:13:20 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 02:13:22 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/size/
+[08-May-2017 02:13:23 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 02:13:25 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 02:13:27 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 02:13:27 Europe/Berlin] PHP Notice:  Undefined variable: undelivered_orders in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 61
+[08-May-2017 02:13:27 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:13:27 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:13:27 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:13:27 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:13:31 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 02:13:31 Europe/Berlin] $_POST:action: next_day
+[08-May-2017 02:13:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function diff_deliveries() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:38
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 38
+[08-May-2017 02:13:55 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 02:13:56 Europe/Berlin] PHP Notice:  Undefined variable: undelivered_orders in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 61
+[08-May-2017 02:13:56 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:13:56 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:13:56 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:13:56 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:13:57 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 02:13:57 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 02:13:58 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 02:13:58 Europe/Berlin] PHP Notice:  Undefined variable: undelivered_orders in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 61
+[08-May-2017 02:13:58 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:13:58 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:13:58 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:13:58 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:14:00 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 02:14:00 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 02:14:01 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 02:14:01 Europe/Berlin] PHP Notice:  Undefined variable: undelivered_orders in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 61
+[08-May-2017 02:14:01 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:14:01 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:14:01 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:14:01 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:20:59 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 02:21:00 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/
+[08-May-2017 02:21:02 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 02:21:02 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 02:21:02 Europe/Berlin] $_GET:room: 1
+[08-May-2017 02:21:14 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&room=2&n=2
+[08-May-2017 02:21:14 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 02:21:14 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 02:21:14 Europe/Berlin] $_GET:room: 2
+[08-May-2017 02:21:14 Europe/Berlin] $_GET:n: 2
+[08-May-2017 02:21:20 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 02:21:20 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 02:21:20 Europe/Berlin] $_GET:room: 1
+[08-May-2017 02:46:46 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 02:46:46 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 02:46:46 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 02:51:21 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/index.php
+[08-May-2017 02:51:24 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/
+[08-May-2017 02:51:26 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/day/
+[08-May-2017 02:51:26 Europe/Berlin] PHP Notice:  Undefined variable: undelivered_orders in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 61
+[08-May-2017 02:51:26 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:51:26 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:51:26 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:51:26 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:58:09 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/day/
+[08-May-2017 02:58:09 Europe/Berlin] PHP Notice:  Undefined variable: undelivered_orders in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 61
+[08-May-2017 02:58:09 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:58:09 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:58:09 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:58:09 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:58:13 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 02:58:14 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 02:58:15 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/topping/
+[08-May-2017 02:58:17 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 02:58:18 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/
+[08-May-2017 02:58:23 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php
+[08-May-2017 02:58:23 Europe/Berlin] $_POST:action: select_room
+[08-May-2017 02:58:23 Europe/Berlin] $_POST:room: 3
+[08-May-2017 02:58:24 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?action=order_pizza&room=3
+[08-May-2017 02:58:25 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 02:58:25 Europe/Berlin] $_GET:room: 3
+[08-May-2017 02:58:29 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[08-May-2017 02:58:29 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 02:58:29 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 02:58:29 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 02:58:29 Europe/Berlin] $_GET:room: 1
+[08-May-2017 02:58:29 Europe/Berlin] $_GET:n: 1
+[08-May-2017 02:58:29 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?room=1
+[08-May-2017 02:58:29 Europe/Berlin] $_GET:room: 1
+[08-May-2017 02:58:33 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 02:58:34 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 02:58:36 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 02:58:37 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/index.php
+[08-May-2017 02:58:37 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 02:58:37 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 02:58:39 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 02:58:40 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 02:58:41 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 02:58:41 Europe/Berlin] PHP Notice:  Undefined variable: undelivered_orders in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 61
+[08-May-2017 02:58:41 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:58:41 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 02:58:41 Europe/Berlin] PHP Notice:  Undefined index: inv_product_id in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 82
+[08-May-2017 02:58:41 Europe/Berlin] PHP Notice:  Undefined index: inv_product_name in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_list.php on line 83
+[08-May-2017 03:19:23 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:19:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_supply_orders() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 41
+[08-May-2017 03:19:25 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:19:28 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 03:19:30 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:19:31 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:19:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_supply_orders() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 41
+[08-May-2017 03:19:38 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:19:39 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/size/
+[08-May-2017 03:19:42 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:19:43 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/topping/
+[08-May-2017 03:19:45 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:19:46 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:19:47 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/
+[08-May-2017 03:19:51 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?room=1&action=update_order_status
+[08-May-2017 03:19:51 Europe/Berlin] $_GET:room: 1
+[08-May-2017 03:19:51 Europe/Berlin] $_GET:action: update_order_status
+[08-May-2017 03:19:51 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?room=1
+[08-May-2017 03:19:51 Europe/Berlin] $_GET:room: 1
+[08-May-2017 03:19:53 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:19:54 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:19:55 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 03:19:57 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/index.php
+[08-May-2017 03:19:57 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 03:19:57 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 03:20:00 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:20:01 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:20:03 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:20:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_supply_orders() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 41
+[08-May-2017 03:21:24 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:21:25 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:21:27 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 03:21:29 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:21:31 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:21:32 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:21:56 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:21:58 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/
+[08-May-2017 03:22:00 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 03:22:00 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 03:22:00 Europe/Berlin] $_GET:room: 1
+[08-May-2017 03:22:09 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=4&n=10
+[08-May-2017 03:22:09 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 03:22:09 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 03:22:09 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 03:22:09 Europe/Berlin] $_GET:room: 4
+[08-May-2017 03:22:09 Europe/Berlin] $_GET:n: 10
+[08-May-2017 03:22:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function itmeized_inventory() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\pizza\index.php:68
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\pizza\index.php on line 68
+[08-May-2017 03:25:04 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 03:25:04 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 03:25:04 Europe/Berlin] $_GET:room: 1
+[08-May-2017 03:25:06 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 03:25:06 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 03:25:06 Europe/Berlin] $_GET:room: 1
+[08-May-2017 03:25:13 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=5&n=10
+[08-May-2017 03:25:13 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 03:25:13 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 03:25:13 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 03:25:13 Europe/Berlin] $_GET:room: 5
+[08-May-2017 03:25:13 Europe/Berlin] $_GET:n: 10
+[08-May-2017 03:25:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function reduce_inventory() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\pizza\index.php:74
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\pizza\index.php on line 74
+[08-May-2017 03:25:43 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 03:25:43 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 03:25:43 Europe/Berlin] $_GET:room: 1
+[08-May-2017 03:25:44 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/
+[08-May-2017 03:25:45 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/
+[08-May-2017 03:25:48 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 03:25:48 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 03:25:48 Europe/Berlin] $_GET:room: 1
+[08-May-2017 03:25:55 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=4&n=10
+[08-May-2017 03:25:55 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 03:25:55 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 03:25:55 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 03:25:55 Europe/Berlin] $_GET:room: 4
+[08-May-2017 03:25:55 Europe/Berlin] $_GET:n: 10
+[08-May-2017 03:25:56 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?room=4
+[08-May-2017 03:25:56 Europe/Berlin] $_GET:room: 4
+[08-May-2017 03:26:05 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:26:07 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:26:08 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:26:28 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:26:28 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 03:26:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function post_day() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 28
+[08-May-2017 03:28:21 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:28:23 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:28:24 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:28:25 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:28:25 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 03:28:26 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:28:30 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:28:30 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:28:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function change_to_finished() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:56
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 56
+[08-May-2017 03:32:44 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:32:46 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:32:46 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 03:32:47 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:32:48 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:32:48 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:32:51 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:32:53 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:32:53 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:32:58 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:32:59 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:33:00 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:33:00 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:33:00 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:52:01 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:52:04 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:52:05 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:52:05 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:52:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function post_day() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 61
+[08-May-2017 03:52:38 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:52:39 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:52:42 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:52:42 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:52:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_supply_orders() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:66
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 66
+[08-May-2017 03:53:03 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:53:04 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:53:05 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:53:05 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:53:06 Europe/Berlin] PHP Notice:  Undefined variable: supply in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 67
+[08-May-2017 03:53:06 Europe/Berlin] supply: 
+[08-May-2017 03:53:06 Europe/Berlin] delivered: Array
+(
+)
+
+[08-May-2017 03:53:06 Europe/Berlin] inventory; Array
+(
+    [0] => Array
+        (
+            [productID] => 11
+            [0] => 11
+            [productName] => flour
+            [1] => flour
+            [quantity] => 100
+            [2] => 100
+        )
+
+    [1] => Array
+        (
+            [productID] => 12
+            [0] => 12
+            [productName] => cheese
+            [1] => cheese
+            [quantity] => 100
+            [2] => 100
+        )
+
+)
+
+[08-May-2017 03:53:06 Europe/Berlin] posting supply order 
+[08-May-2017 03:53:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function post_JSON_return_location() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_helpers.php:67
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php(73): order_supplies(Object(PDO), Array, 'localhost/cs637...')
+#1 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_helpers.php on line 67
+[08-May-2017 03:54:24 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:54:25 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:54:26 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:54:27 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:54:28 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:54:28 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:54:28 Europe/Berlin] PHP Notice:  Undefined variable: supply in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 67
+[08-May-2017 03:54:28 Europe/Berlin] supply: 
+[08-May-2017 03:54:28 Europe/Berlin] delivered: Array
+(
+)
+
+[08-May-2017 03:54:28 Europe/Berlin] inventory; Array
+(
+    [0] => Array
+        (
+            [productID] => 11
+            [0] => 11
+            [productName] => flour
+            [1] => flour
+            [quantity] => 100
+            [2] => 100
+        )
+
+    [1] => Array
+        (
+            [productID] => 12
+            [0] => 12
+            [productName] => cheese
+            [1] => cheese
+            [quantity] => 100
+            [2] => 100
+        )
+
+)
+
+[08-May-2017 03:54:28 Europe/Berlin] posting supply order 
+[08-May-2017 03:54:28 Europe/Berlin] PHP Notice:  Undefined variable: location in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_helpers.php on line 68
+[08-May-2017 03:54:28 Europe/Berlin] get back location = 
+[08-May-2017 03:54:28 Europe/Berlin] PHP Notice:  Undefined variable: location in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_helpers.php on line 69
+[08-May-2017 03:54:28 Europe/Berlin] new supply order id 
+[08-May-2017 03:54:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_supply_orders() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:76
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 76
+[08-May-2017 03:54:59 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:55:00 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:55:01 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:55:02 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:55:02 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 03:55:02 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:55:06 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:55:06 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:55:06 Europe/Berlin] PHP Notice:  Undefined variable: supply in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 67
+[08-May-2017 03:55:06 Europe/Berlin] supply: 
+[08-May-2017 03:55:06 Europe/Berlin] delivered: Array
+(
+)
+
+[08-May-2017 03:55:06 Europe/Berlin] inventory; Array
+(
+    [0] => Array
+        (
+            [productID] => 11
+            [0] => 11
+            [productName] => flour
+            [1] => flour
+            [quantity] => 100
+            [2] => 100
+        )
+
+    [1] => Array
+        (
+            [productID] => 12
+            [0] => 12
+            [productName] => cheese
+            [1] => cheese
+            [quantity] => 100
+            [2] => 100
+        )
+
+)
+
+[08-May-2017 03:55:06 Europe/Berlin] posting supply order 
+[08-May-2017 03:55:06 Europe/Berlin] PHP Notice:  Undefined variable: location in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_helpers.php on line 68
+[08-May-2017 03:55:06 Europe/Berlin] get back location = 
+[08-May-2017 03:55:06 Europe/Berlin] PHP Notice:  Undefined variable: location in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_helpers.php on line 69
+[08-May-2017 03:55:06 Europe/Berlin] new supply order id 
+[08-May-2017 03:55:17 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:55:17 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 03:55:18 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:55:20 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:55:20 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:55:20 Europe/Berlin] PHP Notice:  Undefined variable: supply in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 67
+[08-May-2017 03:55:20 Europe/Berlin] supply: 
+[08-May-2017 03:55:20 Europe/Berlin] delivered: Array
+(
+)
+
+[08-May-2017 03:55:20 Europe/Berlin] inventory; Array
+(
+    [0] => Array
+        (
+            [productID] => 11
+            [0] => 11
+            [productName] => flour
+            [1] => flour
+            [quantity] => 100
+            [2] => 100
+        )
+
+    [1] => Array
+        (
+            [productID] => 12
+            [0] => 12
+            [productName] => cheese
+            [1] => cheese
+            [quantity] => 100
+            [2] => 100
+        )
+
+)
+
+[08-May-2017 03:55:20 Europe/Berlin] posting supply order 
+[08-May-2017 03:55:20 Europe/Berlin] PHP Notice:  Undefined variable: location in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_helpers.php on line 68
+[08-May-2017 03:55:20 Europe/Berlin] get back location = 
+[08-May-2017 03:55:20 Europe/Berlin] PHP Notice:  Undefined variable: location in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_helpers.php on line 69
+[08-May-2017 03:55:20 Europe/Berlin] new supply order id 
+[08-May-2017 03:55:24 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:55:24 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 03:55:24 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:55:25 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:55:25 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:55:25 Europe/Berlin] PHP Notice:  Undefined variable: supply in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 67
+[08-May-2017 03:55:25 Europe/Berlin] supply: 
+[08-May-2017 03:55:25 Europe/Berlin] delivered: Array
+(
+)
+
+[08-May-2017 03:55:25 Europe/Berlin] inventory; Array
+(
+    [0] => Array
+        (
+            [productID] => 11
+            [0] => 11
+            [productName] => flour
+            [1] => flour
+            [quantity] => 100
+            [2] => 100
+        )
+
+    [1] => Array
+        (
+            [productID] => 12
+            [0] => 12
+            [productName] => cheese
+            [1] => cheese
+            [quantity] => 100
+            [2] => 100
+        )
+
+)
+
+[08-May-2017 03:55:25 Europe/Berlin] posting supply order 
+[08-May-2017 03:55:25 Europe/Berlin] PHP Notice:  Undefined variable: location in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_helpers.php on line 68
+[08-May-2017 03:55:25 Europe/Berlin] get back location = 
+[08-May-2017 03:55:25 Europe/Berlin] PHP Notice:  Undefined variable: location in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_helpers.php on line 69
+[08-May-2017 03:55:25 Europe/Berlin] new supply order id 
+[08-May-2017 03:55:27 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:55:27 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:55:27 Europe/Berlin] PHP Notice:  Undefined variable: supply in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 67
+[08-May-2017 03:55:27 Europe/Berlin] supply: 
+[08-May-2017 03:55:27 Europe/Berlin] delivered: Array
+(
+)
+
+[08-May-2017 03:55:27 Europe/Berlin] undel order Array
+(
+    [orderID] => 0
+    [0] => 0
+    [flour_qty] => 80
+    [1] => 80
+    [cheese_qty] => 60
+    [2] => 60
+)
+
+[08-May-2017 03:55:27 Europe/Berlin] inventory; Array
+(
+    [0] => Array
+        (
+            [productID] => 11
+            [0] => 11
+            [productName] => flour
+            [1] => flour
+            [quantity] => 100
+            [2] => 100
+        )
+
+    [1] => Array
+        (
+            [productID] => 12
+            [0] => 12
+            [productName] => cheese
+            [1] => cheese
+            [quantity] => 100
+            [2] => 100
+        )
+
+)
+
+[08-May-2017 03:55:27 Europe/Berlin] posting supply order 
+[08-May-2017 03:55:27 Europe/Berlin] PHP Notice:  Undefined variable: location in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_helpers.php on line 68
+[08-May-2017 03:55:27 Europe/Berlin] get back location = 
+[08-May-2017 03:55:27 Europe/Berlin] PHP Notice:  Undefined variable: location in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\day_helpers.php on line 69
+[08-May-2017 03:55:27 Europe/Berlin] new supply order id 
+[08-May-2017 03:55:27 Europe/Berlin] PHP Warning:  include(errors/database_error.php): failed to open stream: No such file or directory in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 80
+[08-May-2017 03:55:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'errors/database_error.php' for inclusion (include_path='C:/xampp/htdocs/cs637/adalave1/Proj2/pizza2/') in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 80
+[08-May-2017 03:55:33 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:55:36 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:55:36 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 03:55:36 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:56:29 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:56:29 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:56:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function change_to_finished() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:56
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 56
+[08-May-2017 03:56:31 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:56:32 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:56:32 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 03:56:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function post_day() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 28
+[08-May-2017 03:56:38 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:56:56 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:56:56 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 03:56:57 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:57:01 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:57:01 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:57:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function change_to_finished() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:56
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 56
+[08-May-2017 03:57:02 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:57:03 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:57:03 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 03:57:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function change_to_finished() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:56
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 56
+[08-May-2017 03:57:05 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:57:06 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 03:57:06 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 03:57:06 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:58:07 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:58:09 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:58:10 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:58:12 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:58:14 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:58:14 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 03:58:16 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:58:17 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/
+[08-May-2017 03:58:19 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 03:58:19 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 03:58:19 Europe/Berlin] $_GET:room: 1
+[08-May-2017 03:58:27 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=6&n=15
+[08-May-2017 03:58:27 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 03:58:27 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 03:58:27 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 03:58:27 Europe/Berlin] $_GET:room: 6
+[08-May-2017 03:58:27 Europe/Berlin] $_GET:n: 15
+[08-May-2017 03:58:29 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?room=6
+[08-May-2017 03:58:29 Europe/Berlin] $_GET:room: 6
+[08-May-2017 03:58:35 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/
+[08-May-2017 03:58:40 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php
+[08-May-2017 03:58:40 Europe/Berlin] $_POST:action: select_room
+[08-May-2017 03:58:40 Europe/Berlin] $_POST:room: 6
+[08-May-2017 03:58:43 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:58:44 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:58:46 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 03:58:48 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/index.php
+[08-May-2017 03:58:48 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 03:58:48 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 03:58:50 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:58:51 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:58:52 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 03:58:53 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/index.php
+[08-May-2017 03:58:53 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 03:58:53 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 03:58:53 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/index.php
+[08-May-2017 03:58:53 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 03:58:53 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 03:58:54 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/index.php
+[08-May-2017 03:58:54 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 03:58:55 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 03:58:55 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:58:57 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 03:59:00 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 03:59:29 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 03:59:31 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/
+[08-May-2017 03:59:34 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?action=order_pizza&room=1
+[08-May-2017 03:59:34 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 03:59:34 Europe/Berlin] $_GET:room: 1
+[08-May-2017 03:59:43 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=10&n=100
+[08-May-2017 03:59:43 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 03:59:43 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 03:59:43 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 03:59:43 Europe/Berlin] $_GET:room: 10
+[08-May-2017 03:59:43 Europe/Berlin] $_GET:n: 100
+[08-May-2017 03:59:53 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=10&n=85
+[08-May-2017 03:59:54 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 03:59:54 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 03:59:54 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 03:59:54 Europe/Berlin] $_GET:room: 10
+[08-May-2017 03:59:54 Europe/Berlin] $_GET:n: 85
+[08-May-2017 03:59:59 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?room=10
+[08-May-2017 03:59:59 Europe/Berlin] $_GET:room: 10
+[08-May-2017 04:00:10 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?action=order_pizza&room=10
+[08-May-2017 04:00:10 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 04:00:10 Europe/Berlin] $_GET:room: 10
+[08-May-2017 04:00:18 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=1
+[08-May-2017 04:00:18 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 04:00:18 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 04:00:18 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 04:00:18 Europe/Berlin] $_GET:room: 1
+[08-May-2017 04:00:18 Europe/Berlin] $_GET:n: 1
+[08-May-2017 04:00:25 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 04:00:26 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 04:00:27 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 04:00:49 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 04:00:51 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 04:00:52 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 04:00:59 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/index.php
+[08-May-2017 04:00:59 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 04:00:59 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 04:01:04 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/index.php
+[08-May-2017 04:01:04 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 04:01:04 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 04:01:07 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/index.php
+[08-May-2017 04:01:07 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 04:01:07 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 04:01:11 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/index.php
+[08-May-2017 04:01:11 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 04:01:12 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 04:01:13 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 04:01:14 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 04:01:15 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 04:01:29 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 04:01:29 Europe/Berlin] $_POST:action: initial_db
+[08-May-2017 04:01:29 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 04:02:06 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 04:06:02 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/index.php
+[08-May-2017 04:06:04 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/
+[08-May-2017 04:06:05 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/topping/
+[08-May-2017 04:06:07 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/
+[08-May-2017 04:06:08 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/day/
+[08-May-2017 04:06:16 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/day/index.php
+[08-May-2017 04:06:16 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 04:06:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function change_to_finished() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:56
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 56
+[08-May-2017 04:06:27 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/day/
+[08-May-2017 04:10:26 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 04:10:27 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 04:10:28 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 04:10:30 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 04:10:30 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 04:10:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function change_to_finished() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:56
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 56
+[08-May-2017 04:10:39 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 04:11:14 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 04:11:15 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/
+[08-May-2017 04:11:18 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php
+[08-May-2017 04:11:18 Europe/Berlin] $_POST:action: select_room
+[08-May-2017 04:11:18 Europe/Berlin] $_POST:room: 4
+[08-May-2017 04:11:20 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?action=order_pizza&room=4
+[08-May-2017 04:11:20 Europe/Berlin] $_GET:action: order_pizza
+[08-May-2017 04:11:20 Europe/Berlin] $_GET:room: 4
+[08-May-2017 04:11:24 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=4&n=1
+[08-May-2017 04:11:24 Europe/Berlin] $_GET:action: add_order
+[08-May-2017 04:11:24 Europe/Berlin] $_GET:pizza_size: 1
+[08-May-2017 04:11:24 Europe/Berlin] $_GET:pizza_topping: 1
+[08-May-2017 04:11:24 Europe/Berlin] $_GET:room: 4
+[08-May-2017 04:11:24 Europe/Berlin] $_GET:n: 1
+[08-May-2017 04:11:25 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/pizza/?room=4
+[08-May-2017 04:11:25 Europe/Berlin] $_GET:room: 4
+[08-May-2017 04:11:27 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 04:11:28 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 04:11:29 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 04:14:11 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/index.php
+[08-May-2017 04:14:11 Europe/Berlin] $_POST:action: change_to_nextday
+[08-May-2017 04:14:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function change_to_finished() in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php:56
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\admin\day\index.php on line 56
+[08-May-2017 04:14:13 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
+[08-May-2017 04:42:13 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/index.php
+[08-May-2017 04:42:16 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/
+[08-May-2017 04:42:18 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/day/
+[08-May-2017 04:46:25 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/index.php
+[08-May-2017 04:46:27 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/
+[08-May-2017 04:46:28 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/day/
+[08-May-2017 04:48:31 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/index.php
+[08-May-2017 04:48:33 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/
+[08-May-2017 04:48:34 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/day/
+[08-May-2017 06:31:03 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/restclient/index.php
+[08-May-2017 06:31:04 Europe/Berlin] ...... restclient: POST day = 3 to http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/
+[08-May-2017 06:31:07 Europe/Berlin] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST http://localhost/cs637/adalave1/Proj2/proj2_server/rest/day/` resulted in a `404 Not Found` response:
+
+ in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php:111
+Stack trace:
+#0 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\promises\src\TaskQueue.php(47): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 C:\xamp in C:\xampp\htdocs\cs637\adalave1\Proj2\pizza2\vendor\guzzlehttp\guzzle\src\Exception\RequestException.php on line 111
+[08-May-2017 06:34:00 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 06:53:48 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 19:32:08 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/index.php
+[08-May-2017 19:32:18 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/
+[08-May-2017 19:32:20 Europe/Berlin] =====Starting request: /cs637/adalave1/proj2/pizza2/admin/day/
+[08-May-2017 19:32:32 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 19:32:33 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 19:32:35 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 19:32:37 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/index.php
+[08-May-2017 19:32:37 Europe/Berlin] $_POST:action: change_to_baked
+[08-May-2017 19:32:37 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/order/
+[08-May-2017 19:32:40 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/
+[08-May-2017 19:32:41 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/
+[08-May-2017 19:32:43 Europe/Berlin] =====Starting request: /cs637/adalave1/Proj2/pizza2/admin/day/
